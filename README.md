@@ -6,4 +6,4 @@ I developed HEVC software encoder, i.e., VO265. As compared with x265 (-preset p
 
 ## Usage
 
-sh run_all.sh sequence_classical_crf_file.txt.
+sh run_all.sh sequence_classical_crf_file.txt
