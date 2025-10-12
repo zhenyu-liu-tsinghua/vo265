@@ -7,3 +7,11 @@ I developed HEVC software encoder, i.e., VO265. As compared with x265 (-preset p
 ## Usage
 
 sh run_all.sh sequence_classical_crf_file.txt
+
+| class | Sequence        | BDBR(%) |
+|-------|-----------------|---------|
+| A     | PeopleOnStreet  | -30.50  |
+| A     | Traffic         | -41.20  |
+| B     | BasketballDrive | -31.99  |
+| B     | BQTerrace       | -50.28  |
+| B     | Cactus          | -40.01  |
